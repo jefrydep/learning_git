@@ -1,5 +1,8 @@
 /* declarando estilos con css */
 body{
     background-color:red;
-    
+
+}
+h1{
+    font-size: 23px;
 }
